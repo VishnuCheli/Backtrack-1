@@ -1,2 +1,2 @@
-# Backtrack-1
+# Backtracking-1
 Four Backtracking Questions
